@@ -1,0 +1,17 @@
+ h1{
+     color: red;
+     border-bottom: 5px blue dashed;
+   }
+   .quotation {
+     font-style: italic;
+   }
+   .important {
+     text-decoration: underline;
+   }
+   .highlighted {
+     background-color: yellow;	
+   }
+   h2 {
+     border-top: 5px black solid;	
+     border-bottom: 1px black solid;	
+   }
